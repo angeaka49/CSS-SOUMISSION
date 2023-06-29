@@ -1,0 +1,40 @@
+nav {
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  
+      nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+  
+      nav ul li {
+        display: inline-block;
+      }
+  
+      nav ul li a {
+        display: block;
+        color: hsl(0, 100%, 97%);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+  
+      nav ul li a:hover {
+        background-color: #111;
+      }
+
+      img{
+
+      width: 50%;
+
+      }  
+    </style>
